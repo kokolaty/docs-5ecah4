@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-7tfgz6.hsteamid.com/sitemap.xml
